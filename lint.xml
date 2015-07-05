@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="HardcodedText">
+        <ignore path="res/layout/activity_main.xml" />
+        <ignore path="res/layout/registration.xml" />
+    </issue>
+    <issue id="LabelFor">
+        <ignore path="res/layout/activity_main.xml" />
+        <ignore path="res/layout/registration.xml" />
+    </issue>
+    <issue id="RtlHardcoded">
+        <ignore path="res/layout/activity_main.xml" />
+        <ignore path="res/layout/registration.xml" />
+    </issue>
+    <issue id="TextFields">
+        <ignore path="res/layout/activity_main.xml" />
+        <ignore path="res/layout/registration.xml" />
+    </issue>
+</lint>
