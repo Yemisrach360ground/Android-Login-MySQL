@@ -94,7 +94,7 @@ public class MainActivity extends Activity {
 					Toast.makeText(getBaseContext(), "Failed", Toast.LENGTH_LONG).show();
 				}
 				
-				//Parsing the Json String 
+				//Parsing Json String 
 				try
 				{
 					JSONObject ob = new JSONObject(result);
